@@ -9,7 +9,11 @@
 <p align="center">
  ・💻 Desenvolvedor Full-Stack<br>
  ・🤖 Desenvolvo sites, apps, APIs e ferramentas para Discord.<br>
- ・🌱 Sempre aprendendo novas tecnologias e aprimorando projetos pessoais.
+ ・🌱 Sempre aprendendo novas tecnologias e aprimorando projetos pessoais.<br><br>
+  <a href="https://www.linkedin.com/in/luis-gustavo-santos-passos/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </p>
 
 ---
