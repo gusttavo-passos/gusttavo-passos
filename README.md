@@ -12,7 +12,7 @@
 
 Sou desenvolvedor com mais de 4 anos de experiência prática construindo APIs, sistemas web e aplicações SaaS.
 
-Tenho forte foco em backend com **.NET e ASP.NET Core**, aplicando boas práticas de arquitetura, princípios SOLID e desenvolvimento orientado a domínio.
+Tenho forte foco em backend com **TypeScript, NestJs, .NET e ASP.NET Core**, aplicando boas práticas de arquitetura, princípios SOLID e desenvolvimento orientado a domínio.
 
 Atualmente desenvolvo projetos completos, desde modelagem de banco até deploy com Docker.
 
