@@ -16,7 +16,7 @@ Tenho forte foco em backend com **TypeScript, NestJs, .NET e ASP.NET Core**, apl
 
 Atualmente desenvolvo projetos completos, desde modelagem de banco até deploy com Docker.
 
-Busco oportunidades para atuar como Desenvolvedor Backend / NestJs e .NET, contribuindo com código limpo, escalável e bem estruturado.
+Busco oportunidades para atuar como Desenvolvedor Backend / Node e .NET, contribuindo com código limpo, escalável e bem estruturado.
 
 ---
 
